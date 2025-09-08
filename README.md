@@ -17,5 +17,5 @@
 # Texto colaborativo
 - [**Documentos Google**](https://workspace.google.com/products/docs/)
 - **cryptpad.fr**
-- **hackmd.io**
+- hackmd.io
 - 
