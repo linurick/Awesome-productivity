@@ -21,5 +21,10 @@
 - [](https://)
 
 # Spreadsheets
+- [**Google spreadsheets**](https://docs.google.com/spreadsheets)
 * [Ethercalc](https://ethercalc.net/)
 * 
+# Note Taking 
+- [**Obsidian**](https://obsidian.md/) 
+- [**Notion**](https://www.notion.com) 
+- [**AFFiNE**](https://app.affine.pro/)
