@@ -3,6 +3,8 @@
 - `FREE` = Gratis
 - `PROPIETARY` = Codigo cerrado
 - `FREEMIUM` = Gratis pero con funciones limitadas
+# Inteligencia artificial (IA)
+* 
 # Editores de markdown
 - [**Hedgedoc**](https://hedgedoc.org/)
 - [**Markd**](https://markd.it/)
@@ -11,12 +13,23 @@
 - **donetick.com** - `FOSS` `FREEMIUM`
 
 # Calendario
-- **cal.com**
-- **[Proton Calendar](https://proton.me/calendar)**
+- [**Cal**](https://cal.com/)
+- [**Proton Calendar**](https://proton.me/calendar)
 - 
 
 # Texto colaborativo
 - [**Documentos Google**](https://workspace.google.com/products/docs/) / [Convertir a HTML](https://github.com/evbacher/gd2md-html)
+- [**Crytpad**](https://cryptpad.fr)
+- [](https://)
+
+# Editores de hojas de calculo (Spreadsheet)
+* [**Hojas de calculo google**](https://docs.google.com/spreadsheets)
+* [**Ethercalc**](https://ethercalc.net/)
+* 
+# Traductores
+* [Google traductor]()
+# Escritura
+
 - [**Crytpad**](https://cryptpad.fr)
 - [](https://)
 
