@@ -7,8 +7,8 @@
 
 ## To Do Lists
 
-- [***Super Productivity***](https://super-productivity.com/) - [`</>`](https://github.com/johannesjo/super-productivity) - `FREE`
-- [***Donetick***](https://donetick.com/) - [`</>`](https://github.com/donetick/donetick) - `FREEMIUM`
+- [***Super Productivity***](https://super-productivity.com/)  [`</>`](https://github.com/johannesjo/super-productivity) - `FREE`
+- [***Donetick***](https://donetick.com/)  [`</>`](https://github.com/donetick/donetick) - `FREEMIUM`
 
 ## Calendar
 
@@ -19,7 +19,7 @@
 ## Text collaboration
 
 - [***Google Docs***](https://docs.google.com/) / [HTML convert](https://github.com/evbacher/gd2md-html)
-- [***Crytpad***](https://cryptpad.fr) - [`</>`](https://github.com/cryptpad/cryptpad)
+- [***Crytpad***](https://cryptpad.fr)  [`</>`](https://github.com/cryptpad/cryptpad)
 - [***Proton Docs***](https://proton.me/drive/docs) -
 
 #  Spreadsheet Editors
@@ -57,6 +57,15 @@ s
 - [**Notion**](https://www.notion.com/) - / [Awesome Notion](https://github.com/spencerpauly/awesome-notion)
 - [**AFFiNE**](https://affine.pro/) [`</>`](https://github.com/toeverything/AFFiNE) - Alternative to Notion, Miro and Airtable
 
+# ▷ Office Suites
+
+* ↪️ **[Office Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** / [Custom Install Guide](https://gravesoft.dev/office_c2r_custom)
+* ⭐ **[LibreOffice](https://www.libreoffice.org/)** - FOSS Office Suite
+* ⭐ **[OnlyOffice](https://www.onlyoffice.com/)** - FOSS Office Suite
+* ⭐ **[Microsoft Office](https://gravesoft.dev/office_c2r_links)** - Office Suite / [Removal Tool](https://github.com/abbodi1406/WHD/blob/master/scripts/OfficeScrubber_13.zip) / [Hotkeys](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-microsoft-365-e765366f-24fc-4054-870d-39b214f223fd)
+* [Calligra](https://calligra.org/) - FOSS Office Suite
+* [Office365Version](https://www.office365versions.com/) - Office 365 Version History
+
 ## Study / Research
 ## Excel tools
 * [Excel  Practice Online](https://excel-practice-online.com/)
@@ -67,4 +76,4 @@ s
 - (b^_^)b [**Awesome Markdown editors**](https://github.com/mundimark/awesome-markdown-editors)
 - [***Hedgedoc***](https://hedgedoc.org/)  [`</>`](https://github.com/hedgedoc/hedgedoc) - `FREE`
 - [***Markd***](https://markd.it/)  [`</>`](https://github.com/itzcozi/markd) - `FREE`
-- [***Markdown Editor Pro***](https://mark-alpha-five.vercel.app/) [`</>`](https://github.com/Etschmia/mark) - Deinen lokalen Daten, optional mit .md aus Deinem GitHub. React / Vite `FREE`
+- [***Markdown Editor Pro***](https://mark-alpha-five.vercel.app/) [`</>`](https://github.com/Etschmia/mark) - Github md. support `FREE`
